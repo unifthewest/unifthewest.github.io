@@ -9,7 +9,8 @@
 /*General Text  Style*/
 
 body {
-    background-color: white
+    font-family: "Lucida Sans Unicode";
+    background-color: rgb(234, 242, 243)
  }
  
  h1 {
@@ -17,11 +18,11 @@ body {
  }
  
  h2 {
-     color: royalblue
+     color:royalblue;
  }
  
  p {
-     color: darkslategrey
+    color: darkslategrey
  }
  
  section { padding-top: 2%;
@@ -46,6 +47,7 @@ body {
    }
    
    li a {
+     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
      display: block;
      color: white;
      text-align: center;
