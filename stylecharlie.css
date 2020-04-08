@@ -9,6 +9,10 @@
     margin: 0;
     font-size: 1em;
   }
+
+  h1 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+  }
   
   /* Header/logo Title */
   .header {
@@ -40,6 +44,9 @@
   .navbar a:hover {
     background-color: #ddd;
     color: black;
+  }
+  .navbar_active{
+    background-color: rgb(75, 73, 73)
   }
   
   /* Column container */
