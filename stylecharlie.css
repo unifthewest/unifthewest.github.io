@@ -2,6 +2,12 @@
  * {
     box-sizing: border-box;
   }
+
+  @font-face {
+    font-family: font_awsome;
+    src : url("https://kit.fontawesome.com/5a22d77e23.js");
+  }
+
   
   /* Style the body */
   body {
@@ -103,7 +109,7 @@
   }
   .socialbuttons {
     margin-right:0%;
-    margin-left:15%;
+    margin-left:0%;
     padding:0;
     padding-top:0.75%; 
     padding-bottom:0.75%;

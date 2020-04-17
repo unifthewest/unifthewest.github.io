@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="150"
+   height="75"
+   viewBox="0 0 39.687501 19.84375"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="unify_donate.svg">
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient2374">
+      <stop
+         style="stop-color:#2ad4ff;stop-opacity:1;"
+         offset="0"
+         id="stop2370" />
+      <stop
+         style="stop-color:#0088aa;stop-opacity:1"
+         offset="1"
+         id="stop2372" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2374"
+       id="radialGradient2376"
+       cx="19.890997"
+       cy="286.41666"
+       fx="19.890997"
+       fy="286.41666"
+       r="19.84375"
+       gradientTransform="matrix(1.161616,0.02687544,-0.01497083,0.64760965,1.0259451,100.67939)"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="5.6"
+     inkscape:cx="125.49602"
+     inkscape:cy="45.354486"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:pagecheckerboard="true"
+     inkscape:window-width="1600"
+     inkscape:window-height="877"
+     inkscape:window-x="-8"
+     inkscape:window-y="79"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-277.15626)">
+    <g
+       id="g2406">
+      <ellipse
+         ry="9.921875"
+         rx="19.84375"
+         cy="287.03091"
+         cx="19.843752"
+         id="path2366"
+         style="fill:url(#radialGradient2376);fill-opacity:1;stroke-width:0.27761301" />
+      <g
+         id="g2396">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.97121024px;line-height:1.25;font-family:'Segoe Print';-inkscape-font-specification:'Segoe Print, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000080;fill-opacity:1;stroke:none;stroke-width:0.21273693"
+           x="8.3429298"
+           y="291.49393"
+           id="text2380"
+           transform="matrix(0.99803735,-0.15819548,-0.01959856,1.005073,0,0)"><tspan
+             sodipodi:role="line"
+             id="tspan2378"
+             x="8.3429298"
+             y="291.49393"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.97121024px;font-family:'Segoe Print';-inkscape-font-specification:'Segoe Print, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000080;stroke-width:0.21273693">Build The  Future</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:1.25;font-family:'Segoe Print';-inkscape-font-specification:'Segoe Print';letter-spacing:0px;word-spacing:0px;fill:#000080;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="13.701637"
+           y="298.88913"
+           id="text2384"
+           transform="skewY(-12.977789)"
+           inkscape:transform-center-x="-1.1811756"
+           inkscape:transform-center-y="0.89769348"><tspan
+             sodipodi:role="line"
+             id="tspan2382"
+             x="13.701637"
+             y="298.88913"
+             style="fill:#000080;stroke-width:0.26458332">Donate</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.07599449px;line-height:1.25;font-family:'Segoe Print';-inkscape-font-specification:'Segoe Print, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000080;fill-opacity:1;stroke:none;stroke-width:0.19107045"
+           x="4.1829052"
+           y="255.67805"
+           id="text2388"
+           transform="matrix(0.88933925,-0.14541822,0,1.1244303,0,0)"><tspan
+             sodipodi:role="line"
+             id="tspan2386"
+             x="4.1829052"
+             y="255.67805"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.07599449px;font-family:'Segoe Print';-inkscape-font-specification:'Segoe Print, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000080;stroke-width:0.19107045">Unify The West</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>
